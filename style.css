@@ -11,11 +11,19 @@ h1{
 }
 .projetos{
 width: 300px;
+font-family: 'Inconsolata', monospace;
 
 }
 .conhecimentos{
  width: 300px ;
+ font-family: 'Inconsolata', monospace;
 }
 .contatos{
     width: 300px;
+    font-family: 'Inconsolata', monospace;
+}
+
+h3{
+    font-family: 'Playfair Display', serif;
+    
 }
