@@ -2,7 +2,13 @@
     background-color: rgb(0, 0, 0);
     color: azure;
     overflow: unset;
+    
    
+}
+body{
+   height: auto;
+   width: auto;
+
 }
 h1{
     text-align: center;
@@ -11,16 +17,17 @@ h1{
     height: 100%;
 }
 .projetos{
-width: 300px;
+width: auto;
+height: auto;
 font-family: 'Inconsolata', monospace;
 
 }
 .conhecimentos{
- width: 300px ;
+ width: auto ;
  font-family: 'Inconsolata', monospace;
 }
 .contatos{
-    width: 300px;
+    width: auto;
     font-family: 'Inconsolata', monospace;
 }
 
@@ -35,3 +42,7 @@ button{
     cursor: pointer;
     outline: revert;
 }
+ 
+
+
+ 
