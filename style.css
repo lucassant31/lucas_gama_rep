@@ -25,4 +25,8 @@
     font-family: 'Playfair Display', serif;
     color: rgb(152, 152, 167);
     }
+
+    a {
+        text-decoration: none;
+    }
  
