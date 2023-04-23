@@ -1,7 +1,8 @@
 *{
-    background-color: rgb(0, 0, 0);
-    color: azure;
+    background-color: rgb(12, 11, 11);
+    color: rgb(241, 243, 243);
     overflow: unset;  
+    text-align: left
 }
     .textstyles{
         height: auto;
@@ -19,11 +20,11 @@
     }
     h1{
         font-family: 'Playfair Display', serif; 
-        color: rgb(152, 152, 167);
+        color: rgb(242, 242, 248);
     }
     h3{
     font-family: 'Playfair Display', serif;
-    color: rgb(152, 152, 167);
+    color: rgb(52, 52, 189);
     }
 
     a {
@@ -34,8 +35,7 @@
    }
  
    .texto2{
-    
-        width: 850px;
-    
-    
+        width: 450px;
    }
+
+  
